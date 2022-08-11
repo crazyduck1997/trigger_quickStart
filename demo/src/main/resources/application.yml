@@ -1,0 +1,6 @@
+canal:
+  host:
+  port:
+  destination: example
+  username:
+  password:
